@@ -74,6 +74,20 @@
       tool: "hebrews",
     },
     {
+      name: "Ask Ellen White",
+      desc: "Her writings, quoted word for word",
+      href: "https://askew.mybibleexplorer.com/",
+      category: "topic",
+      tool: "askew",
+    },
+    {
+      name: "Find Your Way Home",
+      desc: "A thirteen-step journey through Steps to Christ",
+      href: "https://stc.mybibleexplorer.com/",
+      category: "topic",
+      tool: "steps-to-christ",
+    },
+    {
       name: "Hermeneutics",
       desc: "Learn to read Scripture faithfully",
       href: "https://hermeneutics.mybibleexplorer.com",
